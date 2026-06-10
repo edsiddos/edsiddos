@@ -13,7 +13,7 @@ Este projeto foi desenvolvido utilizando as melhores práticas de engenharia de 
 * **Experiência SPA com Vue.js & Inertia.js:** Integração do ecossistema do Laravel 13 (via Breeze) com o Vue.js, criando uma interface reativa, fluida e com excelente experiência de usuário, sem a necessidade de construir e gerenciar uma API REST separada.
 * **Persistência Robusta com PostgreSQL:** Modelagem de dados e integridade referencial preparadas para consistência financeira, com o banco de dados que utilizo amplamente em ambiente de produção no meu dia a dia.
 * **Ambiente Conteinerizado (Docker):** Configuração completa via `docker-compose`, isolando os ambientes de aplicação e banco de dados para garantir que o projeto rode perfeitamente em qualquer máquina.
-
+ 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -23,6 +23,7 @@ Este projeto foi desenvolvido utilizando as melhores práticas de engenharia de 
 * **Banco de Dados:** PostgreSQL
 * **Infraestrutura:** Docker & Docker Compose
 
+<!--
 ---
 
 ## ⚙️ Como Rodar o Projeto Localmente
@@ -33,3 +34,4 @@ Certifique-se de ter o **Docker** e o **Docker Compose** instalados em sua máqu
 ```bash
 git clone [https://github.com/seu-usuario/controlefacil.git](https://github.com/seu-usuario/controlefacil.git)
 cd controlefacil
+ -->
