@@ -35,7 +35,7 @@ Desenvolvedor Full Stack Sênior especializado na construção, modernização e
 Aplicação Web SPA (Single Page Application) focada no controle de despesas e projeções de compras parceladas. O projeto reflete padrões arquiteturais modernos exigidos para sistemas corporativos resilientes.
 - **Diferenciais Técnicos:** Laravel 13, Vue.js (Inertia.js), SOLID, Arquitetura Orientada a Serviços (SOA), Docker e PostgreSQL.
 
-#### 📦 [my-web-components](https://github.com/edsiddos/my-web-components)
+#### 📦 [My Web Components](https://github.com/edsiddos/my-web-components)
 Componentes de interface reutilizáveis criados de forma puramente nativa no navegador, sem a necessidade de frameworks pesados de terceiros.
 - **Diferenciais Técnicos:** Demonstração prática do domínio de **JavaScript Moderno (ES6+)**, **Custom Elements**, **Shadow DOM** e **HTML Templates**. Totalmente compatível e integrável com ecossistemas modernos como Laravel + Vue + Inertia, permitindo a escuta de eventos nativos e isolamento completo de escopo estilizado.
 - **Tecnologias:** JavaScript Puro (Vanilla JS), Shadow DOM, HTML5, CSS3.
