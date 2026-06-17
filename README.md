@@ -54,5 +54,5 @@ Componentes de interface reutilizáveis criados de forma puramente nativa no nav
 ---
 
 ## 📫 Conecte-se comigo:
-- **LinkedIn:** [linkedin.com/in/ednei-leite](https://linkedin.com/in/ednei-leite)
+- **LinkedIn:** [br.linkedin.com/in/ednei-leite-da-silva-86a098357](https://br.linkedin.com/in/ednei-leite-da-silva-86a098357)
 - **E-mail:** edsiddos@gmail.com
