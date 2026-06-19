@@ -1,6 +1,8 @@
 # Olá, eu sou o Ednei Leite da Silva 👋
 
+<!--
 ![Contador de Acessos](https://komarev.com/ghpvc/?username=edsiddos&repo=edsiddos&color=orange&style=flat-square)
+-->
 
 Desenvolvedor Full Stack Sênior especializado na construção, modernização e escalabilidade de aplicações web robustas. Com mais de 10 anos de experiência na área de tecnologia, atuo fortemente na liderança técnica de migrações complexas, tunagem de servidores e arquitetura de sistemas.
 
